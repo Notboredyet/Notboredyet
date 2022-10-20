@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Notboredyet
 - 👀 I’m interested in Cyber Security and Penetration Testing
 - 🌱 I’m currently learning Java code
-- 💞️ I’m looking to collaborate on open source projects and implementing Coding skills
+- 💞️ I’m looking to collaborate on open source projects and implement coding skills
 - 📫 How to reach me? | Discord @trapstar #9797
 
 <!---
